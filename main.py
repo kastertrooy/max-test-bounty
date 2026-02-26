@@ -1,3 +1,3 @@
 def add_numbers(a, b):
-    # ОШИБКА: должно быть a + b
-    return a - b
+    """Return the sum of two numbers."""
+    return a + b
